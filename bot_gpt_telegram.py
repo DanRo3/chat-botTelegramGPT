@@ -22,9 +22,7 @@ def send_messages(chat_id, text):
 
 def get_openai_response(prompt):
     system = '''
-        Eres un asistente de atención a clientes 
-        y estudiantes de la plataforma de educación online en tecnología,  
-        inglés y liderazgo llamada Platzi
+        Aqui establece el rol del GPT....
         '''     
     response = openai.chat.completions.create(
 		model='gpt-3.5-turbo',
