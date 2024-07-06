@@ -1,6 +1,6 @@
 # ChatBot con ChatGPT para Telegram
 
-Este repositorio contiene el código fuente de un chatbot automatizado que integra la API de Telegram para recibir mensajes de usuario y la API de OpenAI (ChatGPT) para generar respuestas inteligentes. El chatbot está diseñado para interactuar con usuarios en tiempo real, proporcionando asistencia en áreas específicas como tecnología, inglés y liderazgo, enfocándose en la plataforma educativa online Platzi.
+Este repositorio contiene el código fuente de un chatbot automatizado que integra la API de Telegram para recibir mensajes de usuario y la API de OpenAI (ChatGPT) para generar respuestas inteligentes. El chatbot está diseñado para interactuar con usuarios en tiempo real.
 
 ## Características
 
